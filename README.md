@@ -1,2 +1,4 @@
 # dsci-100-project_template
-Template project repository for DSCI-100
+
+This repository is for DSCI 100.
+List all the files you have, what they do, how they run.
